@@ -1,5 +1,11 @@
 setwd('C:/Users/X250/Documents/code projects/R_tutorial')
 
+install.packages("tidyverse")
+install.packages("tmap")
+install.packages("dplyr")
+install.packages("st")
+install.packages("sf")
+
 library('tidyverse')
 library('tmap')
 library('dplyr')
